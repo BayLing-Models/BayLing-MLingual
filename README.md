@@ -1,8 +1,8 @@
-# BayLing-MLingual: One Model, 50 Languages, 2500 Language Pairs.
+# BayLing-MLingual: One Model, 50 Languages, 2500 Language Pairs
 
 > [Mengyu Bu](https://bingo123122121.github.io/), [Yang Feng](https://people.ucas.edu.cn/~yangfeng?language=en)
 
-[![arXiv](https://img.shields.io/badge/arXiv-2603.17512-b31b1b%3Flogo%3DarXiv?logo=arxiv&color=b31b1b&link=https%3A%2F%2Farxiv.org%2Fabs%2F2603.17512)](https://arxiv.org/abs/2603.17512) [![github](https://img.shields.io/badge/GitHub-Code-keygen?logo=github&color=green&link=https%3A%2F%2Fgithub.com%2FBayLing-Models%2FBayLing-MLingual)](https://github.com/ictnlp/BayLing-MLingual) [![github](https://img.shields.io/badge/Hugging%20Face-Model-b31b1b?logo=huggingface&color=blue&link=https%3A%2F%2Fhuggingface.co%2FBayLing-Models%2FBayLing-MLingual)
+[![arXiv](https://img.shields.io/badge/arXiv-2603.17512-b31b1b%3Flogo%3DarXiv?logo=arxiv&color=b31b1b&link=https%3A%2F%2Farxiv.org%2Fabs%2F2603.17512)](https://arxiv.org/abs/2603.17512) [![github](https://img.shields.io/badge/GitHub-Code-keygen?logo=github&color=green&link=https%3A%2F%2Fgithub.com%2FBayLing-Models%2FBayLing-MLingual)](https://github.com/ictnlp/BayLing-MLingual) ![github](https://img.shields.io/badge/Hugging%20Face-Model-b31b1b?logo=huggingface&color=blue&link=https%3A%2F%2Fhuggingface.co%2FBayLing-Models%2FBayLing-MLingual)
 
 **BayLing-MLingual** is a multilingual question-answering model that supports **50 languages** and **2500 cross-lingual pairs**. Built on top of **XBridge**, BayLing-MLingual leverages a compositional Encoder-LLM-Decoder architecture that separates language understanding, knowledge & reasoning, and Language generation. This design enables strong multilingual performance across both high-resource and low-resource languages while preserving the reasoning capabilities of the base LLM.
 

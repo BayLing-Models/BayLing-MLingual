@@ -1,4 +1,4 @@
-# BayLing-MLingual: One Model, 50 Languages, 2500 Language Pairs
+# BayLing-MLingual: One Model, 50 Languages, 2500 Cross-lingual Pairs
 
 > [Mengyu Bu](https://bingo123122121.github.io/), [Yang Feng](https://people.ucas.edu.cn/~yangfeng?language=en)
 

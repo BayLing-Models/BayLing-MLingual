@@ -13,6 +13,12 @@
 * **Low-resource & unseen language transfer**: BayLing-MLingual demonstrates strong performance on high-resource languages, low-resource languages and previously unseen languages, without retraining the LLM.
 * **Efficient Deployment**: Only lightweight multilingual modules are added on top of the LLM.
 
+
+
+https://github.com/user-attachments/assets/dacd6784-c747-47b8-a28c-b2aff0cfc1e1
+
+
+
 ## 💬 Example Interactions
 
 ### Japanese → Swahili

@@ -11,7 +11,7 @@
 * **50 languages and 2500 cross-lingual pairs**: A single model supports 50 languages across diverse language families. Input and output languages can be selected independently.
 * **Strong multilingual performance**: BayLing-MLingual preserves the reasoning and knowledge capabilities of the underlying LLM while extending multilingual understanding and generation.
 * **Low-resource & unseen language transfer**: BayLing-MLingual demonstrates strong performance on high-resource languages, low-resource languages and previously unseen languages, without retraining the LLM.
-* **Efficient Deployment**: Only lightweight multilingual modules are added on top of the LLM.
+* **Efficient deployment**: Only lightweight multilingual modules are added on top of the LLM.
 
 
 

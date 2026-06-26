@@ -137,15 +137,13 @@ We release `BayLing-MLingual` on [Hugging Face](https://huggingface.co/BayLing-M
 ### 3. Launch Gradio Demo
 
 ``` shell
-gradio_demo=demo.py
-mt_tokenizer_path=/path/to/your/nllb-1.3b
-llm_tokenizer_path=/path/to/your/llama3-8b
-model_path=/path/to/our/hf/model
+bash scripts/launch_demo.sh
+```
 
-CUDA_VISIBLE_DEVICES=0 python $gradio_demo \
-    --model_path $model_path \
-    --mt_tokenizer_path $mt_tokenizer_path --llm_tokenizer_path $llm_tokenizer_path \
-    --max_gen_len 256
+### 4. Run Inference
+
+``` shell
+bash scripts/run_inference.sh
 ```
 
 ## 🔬Technical Report
